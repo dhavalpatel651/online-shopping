@@ -19,6 +19,18 @@
 
 		<!-- https://mvnrepository.com/artifact/javax/javaee-api -->
 		<!-- https://mvnrepository.com/artifact/javax/javaee-api -->
+
+		<dependency>
+
+			<groupId>com.dm.spring</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+
+
+
 		<dependency>
 			<groupId>javax</groupId>
 			<artifactId>javaee-api</artifactId>
